@@ -1,2 +1,2 @@
 # simpleclock
-Simple Clock .py
+Timer made with Python
